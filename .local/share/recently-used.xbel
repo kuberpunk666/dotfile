@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///run/media/anonuumne/BFBE-2340/Pack%20Amaral" added="2024-07-04T15:03:58.098291Z" modified="2024-07-04T15:03:58.098307Z" visited="2024-07-04T15:03:58.098293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T15:03:58.098299Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/anonuumne/BFBE-2340/shellscriptarch-main" added="2024-07-04T15:04:01.824595Z" modified="2024-07-04T15:04:01.824606Z" visited="2024-07-04T15:04:01.824596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T15:04:01.824600Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/anonuumne/BFBE-2340/shellscriptarch-main/hypr" added="2024-07-04T15:04:05.241163Z" modified="2024-07-04T15:04:05.241175Z" visited="2024-07-04T15:04:05.241165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T15:04:05.241168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/anonuumne/BFBE-2340/shellscriptarch-main/hypr/keybindings.conf" added="2024-07-04T15:04:10.090151Z" modified="2024-07-04T15:04:10.090163Z" visited="2024-07-04T15:04:10.090153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T15:04:10.090156Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2024-07-04T16:29:27.859277Z" modified="2024-07-04T16:29:27.859282Z" visited="2024-07-04T16:29:27.859278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:29:27.859280Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne" added="2024-07-04T16:29:30.877960Z" modified="2024-07-04T16:57:26.205432Z" visited="2024-07-04T16:29:30.877962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:57:26.205426Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads" added="2024-07-04T16:29:36.659114Z" modified="2024-07-04T16:57:38.437207Z" visited="2024-07-04T16:29:36.659115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:57:38.437202Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/yay" added="2024-07-04T16:29:39.715243Z" modified="2024-07-04T16:29:39.715254Z" visited="2024-07-04T16:29:39.715245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:29:39.715248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme" added="2024-07-04T16:35:01.395572Z" modified="2024-07-04T16:35:01.395587Z" visited="2024-07-04T16:35:01.395574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:01.395579Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes" added="2024-07-04T16:35:31.347095Z" modified="2024-07-04T16:35:31.347107Z" visited="2024-07-04T16:35:31.347097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:31.347100Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src" added="2024-07-04T16:35:32.826408Z" modified="2024-07-04T16:35:32.826420Z" visited="2024-07-04T16:35:32.826410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:32.826413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/assets" added="2024-07-04T16:35:33.754993Z" modified="2024-07-04T16:35:47.387291Z" visited="2024-07-04T16:35:33.754995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:47.387286Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/assets/cinnamon" added="2024-07-04T16:35:48.394681Z" modified="2024-07-04T16:35:48.394694Z" visited="2024-07-04T16:35:48.394683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:48.394686Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/assets/gnome-shell" added="2024-07-04T16:35:49.674650Z" modified="2024-07-04T16:35:49.674664Z" visited="2024-07-04T16:35:49.674653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:49.674657Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/main" added="2024-07-04T16:35:51.274877Z" modified="2024-07-04T16:35:51.274890Z" visited="2024-07-04T16:35:51.274879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:51.274883Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/main/gnome-shell" added="2024-07-04T16:35:53.036422Z" modified="2024-07-04T16:35:53.036433Z" visited="2024-07-04T16:35:53.036424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:53.036427Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/main/gtk-2.0" added="2024-07-04T16:35:54.987097Z" modified="2024-07-04T16:35:54.987131Z" visited="2024-07-04T16:35:54.987099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:54.987124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/sass" added="2024-07-04T16:35:56.994537Z" modified="2024-07-04T16:35:56.994549Z" visited="2024-07-04T16:35:56.994539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:56.994542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/sass/cinnamon" added="2024-07-04T16:35:59.851520Z" modified="2024-07-04T16:35:59.851539Z" visited="2024-07-04T16:35:59.851525Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:35:59.851529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/sass/gnome-shell" added="2024-07-04T16:36:01.091032Z" modified="2024-07-04T16:36:01.091045Z" visited="2024-07-04T16:36:01.091033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:36:01.091037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/Tokyo-Night-GTK-Theme/themes/src/sass/gtk" added="2024-07-04T16:36:02.994896Z" modified="2024-07-04T16:36:02.994933Z" visited="2024-07-04T16:36:02.994898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:36:02.994902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/rice.mp4" added="2024-07-04T16:43:06.365706Z" modified="2024-07-04T16:43:21.965923Z" visited="2024-07-04T16:43:06.365708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-04T16:43:06.365710Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:43:21.965921Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/.mpd" added="2024-07-04T16:50:39.669199Z" modified="2024-07-04T16:50:39.669204Z" visited="2024-07-04T16:50:39.669200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:50:39.669202Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/.config" added="2024-07-04T16:56:53.535297Z" modified="2024-07-04T16:56:53.535308Z" visited="2024-07-04T16:56:53.535298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:56:53.535301Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/dotfiles" added="2024-07-04T16:57:55.362947Z" modified="2024-07-04T16:57:55.362956Z" visited="2024-07-04T16:57:55.362948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:57:55.362951Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/Downloads/dotfiles/.config" added="2024-07-04T16:58:19.843751Z" modified="2024-07-04T16:58:43.129491Z" visited="2024-07-04T16:58:19.843753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:58:43.129489Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/.icons" added="2024-07-04T16:59:07.404049Z" modified="2024-07-04T16:59:07.404066Z" visited="2024-07-04T16:59:07.404051Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:59:07.404056Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anonuumne/.icons/default" added="2024-07-04T16:59:12.962869Z" modified="2024-07-04T16:59:12.962880Z" visited="2024-07-04T16:59:12.962870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-04T16:59:12.962874Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,31 +1,64 @@
-Dependencias
-paru -S base-devel pokemon-colorscripts-git hyprland-git hyprpicker-git xdg-desktop-portal-hyprland-git waybar-hyprland cava kitty wofi starship wl-clipboard swww swaync swaylock-effects-git tty-clock-git playerctl pavucontrol btop mpd mpd-mpris mpv mpv-mpris qt5-base qt5-wayland qt6-base qt6-wayland lsd geany bat cliphist gamemode polkit-gnome g4music wlogout visual-studio-code-bin boo-grub-git sddm-git boo-sddm-git proxzima-plymouth-git yad blueman network-manager-applet libinput-gestures light rofi tofi firefox thunar dolphin --needed
+________                                   .___                   .__
+\______ \   ____ ______   ____   ____    __| _/____   ____   ____ |__|____    ______
+ |    |  \_/ __ \\____ \_/ __ \ /    \  / __ |/ __ \ /    \_/ ___\|  \__  \  /  ___/
+ |    `   \  ___/|  |_> >  ___/|   |  \/ /_/ \  ___/|   |  \  \___|  |/ __ \_\___ \
+/_______  /\___  >   __/ \___  >___|  /\____ |\___  >___|  /\___  >__(____  /____  >
+        \/     \/|__|        \/     \/      \/    \/     \/     \/        \/     \/
+paru -S base-devel pokemon-colorscripts-git hyprland-git hyprpicker-git xdg-desktop-portal-hyprland-git waybar-hyprland cava kitty wofi starship wl-clipboard swww swaync swaylock-effects-git tty-clock-git playerctl pavucontrol btop mpd mpd-mpris mpv mpv-mpris qt5-base qt5-wayland qt6-base qt6-wayland lsd geany bat cliphist gamemode polkit-gnome g4music wlogout visual-studio-code-bin boo-grub-git sddm-git boo-sddm-git proxzima-plymouth-git yad blueman network-manager-applet libinput-gestures light rofi tofi firefox thunar dolphin zsh zsh-completions --needed
 
 paru -R xdg-desktop-portal-wlr
+
+  ____ _____ _  __  _____
+ / ___|_   _| |/ / |_   _|__ _ __ ___   __ _
+| |  _  | | | ' /    | |/ _ \ '_ ` _ \ / _` |
+| |_| | | | | . \    | |  __/ | | | | | (_| |
+ \____| |_| |_|\_\   |_|\___|_| |_| |_|\__,_|
 
 GTK Theme :: Tokyonight-Dark-BL-LB
 
 cd ~/Downloads
-git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
+# git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
+git clone https://github.com/kuberpunk666/Tokyo-Night-GTK-Theme
 cd Tokyo-Night-GTK-Theme/
 sudo cp -r themes/Tokyonight-Dark-BL-LB /usr/share/themes/
+
+ ___                      _____
+|_ _|___ ___  _ __  ___  |_   _|__ _ __ ___   __ _
+ | |/ __/ _ \| '_ \/ __|   | |/ _ \ '_ ` _ \ / _` |
+ | | (_| (_) | | | \__ \   | |  __/ | | | | | (_| |
+|___\___\___/|_| |_|___/   |_|\___|_| |_| |_|\__,_|
 
 Icons:: Tokyonight-Moon
 
 cd ~/Downloads
-git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
+# git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
+git clone https://github.com/kuberpunk666/Tokyo-Night-GTK-Theme
 cd Tokyo-Night-GTK-Theme/
 sudo cp -r icons/Tokyonight-Moon /usr/share/icons/
+
+  ____                                _____
+ / ___|   _ _ __ ___  ___  _ __ ___  |_   _|__ _ __ ___   __ _
+| |  | | | | '__/ __|/ _ \| '__/ __|   | |/ _ \ '_ ` _ \ / _` |
+| |__| |_| | |  \__ \ (_) | |  \__ \   | |  __/ | | | | | (_| |
+ \____\__,_|_|  |___/\___/|_|  |___/   |_|\___|_| |_| |_|\__,_|
 
 Cursors :: Sweet-cursors
 
 cd ~/Downloads
-git clone https://github.com/EliverLara/Sweet.git -b nova
+# git clone https://github.com/EliverLara/Sweet.git -b nova
+git clone https://github.com/kuberpunk666/Tokyo-Night-GTK-Theme
 cd Sweet/
 sudo cp -r kde/cursors/Sweet-cursors /usr/share/icons/
 
+  ____            _
+ / ___|_ __ _   _| |__
+| |  _| '__| | | | '_ \
+| |_| | |  | |_| | |_) |
+ \____|_|   \__,_|_.__/
+
 INSTALL GRUB
-$ git clone https://github.com/PROxZIMA/boo-grub.git
+# $ git clone https://github.com/PROxZIMA/boo-grub.git
+git clone https://github.com/kuberpunk666/Tokyo-Night-GTK-Theme
 $ cd boo-grub
 
 $ sudo cp -r boo /usr/share/grub/themes
@@ -35,6 +68,14 @@ $ sudo vim /etc/default/grub
 change #GRUB_THEME= to GRUB_THEME="/usr/share/grub/themes/boo/theme.txt"
 
 $ sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+ ____  ____  ____  __  __
+/ ___||  _ \|  _ \|  \/  |
+\___ \| | | | | | | |\/| |
+ ___) | |_| | |_| | |  | |
+|____/|____/|____/|_|  |_|
+
+git clone https://github.com/kuberpunk666/Tokyo-Night-GTK-Theme
 
 INSTALL SDDM
 
@@ -47,3 +88,4 @@ echo "[Theme]
 Current=sddm-astronaut-theme" | sudo tee /etc/sddm.conf
 
 nano /etc/sddm.conf.d/kde_settings.conf
+

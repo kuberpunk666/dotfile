@@ -29,7 +29,7 @@ gsettings set org.cinnamon.desktop.default-applications.terminal exec kitty
 swaync &
 
 # waybar
-$scripts/launch_waybar &
+# $scripts/launch_waybar &
 # $scripts/dynamic &
 
 # music daemon
